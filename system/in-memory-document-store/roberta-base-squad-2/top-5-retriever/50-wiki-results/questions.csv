@@ -1,0 +1,308 @@
+,document_id,question_id,question,answer,probability,score,top_k_retriever,time_taken
+0,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,85,Where was David born?,"Blunderstone, Suffolk, England",0.885599955554699,16.37251091003418,,1.3239490985870361
+1,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,86,When David was seven who did his mother marry?,Edward Murdstone,0.8928453088380275,16.961118698120117,,3.2690529823303223
+2,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,87,"To get David out of the way, where was he sent to live by his mother and stepfather?",Yarmouth,0.8422177836455775,13.39858341217041,,3.320383071899414
+3,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,88,With whom is David in love?,Dora Spenlow,0.8970750712976465,17.321117401123047,,2.954350471496582
+4,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,89,Where did Murdstone send David to work in London?,a wine merchant,0.86318189143464,14.735784530639648,,2.569925546646118
+5,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,90,"When David ran away, to which relative did he run?",Betsey Trotwood,0.8479677891143742,13.750001907348633,,3.0219078063964844
+6,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,91,What nickname did David's great-aunt call him?,Betsey Trotwood,0.8293003471645101,12.645414352416992,,2.5864174365997314
+7,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,92,Why was Uriah Heep in prison?,"bank fraud, and awaiting transportation",0.8380560357408459,13.150676727294922,,0.8460042476654053
+8,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,93,"To build a new life, where did Peggotty take Emily?",Australia,0.8522120414784291,14.016454696655273,,1.2986268997192383
+9,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,94,"How did David's wife, Dora Spenlow, die?",at the age of eight months,0.6976437074569212,6.688819408416748,,1.0623188018798828
+10,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,95,Why wasn't David's father a part of his life?,"–his father, David Copperfield Sr., died 6 months before his son's birth",0.7418730326596348,8.445812225341797,,1.8503551483154297
+11,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,96,Where was David sent to live after his mother remarried?,Yarmouth,0.8504345073418782,13.904104232788086,,2.473428726196289
+12,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,97,What does David find out when he goes home for the holiday's?,his mother has given birth to a baby boy,0.8945837344548198,17.107532501220703,,2.689483404159546
+13,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,98,Who was David in love with during his childhood?,Emily,0.7967015281593366,10.92643928527832,,2.8442039489746094
+14,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,99,Why does David run away when he is in London?,No one remains to care for David in London,0.8397028091617588,13.248147964477539,,2.777390480041504
+15,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,100,Why did David's aunt Betsey agree to raise him?,"on condition that he always try to 'be as like his sister, Betsey Trotwood' as he can be",0.8178422980773762,12.014373779296875,,1.6149795055389404
+16,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,101,"Who renamed David as ""Trotwood Copperfield""?",great-aunt,0.8155898396831532,11.893993377685547,,1.1177794933319092
+17,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,102,When did David meet Agnes?,While living in Switzerland,0.6159661504798786,3.7796905040740967,,2.5126149654388428
+18,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,103,"What ended David's marraige with his first wife, Dora?",Dora falls ill and dies,0.6943616716539102,6.564723968505859,,2.611847400665283
+19,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,104,Who did David marry second?,Dora Spenlow,0.8272627149474266,12.530803680419922,,2.606022357940674
+20,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,105,Whose family is David sent to live with?,Peggotty's,0.8616548330924816,14.632823944091797,,2.4771296977996826
+21,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,106,Where does Emily move to and with whom?,Steerforth,0.8165764367738193,11.946579933166504,,2.416273355484009
+22,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,107,How does David's first wife pass away?,Dora falls ill and dies,0.7545261537498966,8.983196258544922,,2.671736240386963
+23,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,108,Who is Uriah Heep?,The British rock band,0.8155548029797778,11.892129898071289,,0.8841812610626221
+24,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,109,How many children does David have?,two,0.6518576562139619,5.017718315124512,,0.9802367687225342
+25,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,110,Who seduces Emily?,Littimer,0.6917365048570728,6.466001510620117,,2.200824499130249
+26,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,111,How did Steepforth die?,violently,0.6701126713086544,5.669557571411133,,0.8862450122833252
+27,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,112,Who is Agnes?,Mr Wickfield's mature and lovely daughter,0.8274288442026587,12.540107727050781,,2.8201370239257812
+28,5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,113,Who raises David?,his mother and nursemaid Peggotty,0.8921527718027317,16.90337371826172,,2.4478261470794678
+29,934fbd3acf4433a952b49cfc004dd2b363b57faf,192,Who is pip's benefactor?,Abel Magwitch,0.8646462390954595,14.835429191589355,,1.3696699142456055
+30,934fbd3acf4433a952b49cfc004dd2b363b57faf,193,What does Ms. Havisham wear?,her wedding dress and one shoe,0.8573599847356032,14.348270416259766,,0.9372646808624268
+31,934fbd3acf4433a952b49cfc004dd2b363b57faf,194,Why is Pip arrested?,debt,0.7775038196437717,10.009428977966309,,1.1285581588745117
+32,934fbd3acf4433a952b49cfc004dd2b363b57faf,195,Who is Estella's real father?,Bentley Drummle,0.6202948932569332,3.926400661468506,,0.9985618591308594
+33,934fbd3acf4433a952b49cfc004dd2b363b57faf,196,Who brought Estella to Ms. Havisham?,Bentley Drummle,0.6947173484068994,6.578135967254639,,0.8891701698303223
+34,934fbd3acf4433a952b49cfc004dd2b363b57faf,197,Where did Pip see the escaped convict at the beginning of the story?,parents' grave,0.8337176311341904,12.897659301757812,,1.2408692836761475
+35,934fbd3acf4433a952b49cfc004dd2b363b57faf,198,"What does Pip tell Magwitch, when Magwitch was in jail?",his daughter Estella is alive,0.7061369826533488,7.013564109802246,,1.4384527206420898
+36,934fbd3acf4433a952b49cfc004dd2b363b57faf,199,What is Joe Gargery's trade?,blacksmith,0.9028260119829001,17.83221435546875,,0.915865421295166
+37,934fbd3acf4433a952b49cfc004dd2b363b57faf,200,Where was Magwitch before he returned to England?,London,0.7486658340178973,8.732074737548828,,1.444751501083374
+38,934fbd3acf4433a952b49cfc004dd2b363b57faf,201,How does the story end?,sadness and some joy,0.666952019498075,5.555452346801758,,0.9905211925506592
+39,934fbd3acf4433a952b49cfc004dd2b363b57faf,202,Why did Pip emphasize in no parting from Estella after visiting the ruins of SatisÂ´house?,"misfortune has opened her heart. As Pip takes Estella's hand and they leave the moonlit ruins, he sees ""no shadow of another parting from her.""",0.6784036286090266,5.971561431884766,,1.3549387454986572
+40,934fbd3acf4433a952b49cfc004dd2b363b57faf,203,How did Pip fall into debt and face arrest?,falls ill in his rooms,0.7479049721417379,8.699758529663086,,1.440894603729248
+41,934fbd3acf4433a952b49cfc004dd2b363b57faf,204,Why wasnÂ´t Magwith executed since he came back to England?,Magwitch began drinking and fell into crime,0.6126933235684916,3.6691815853118896,,1.5813570022583008
+42,934fbd3acf4433a952b49cfc004dd2b363b57faf,205,Why did Orlick want to kill Pip?,injuring Pip's sister,0.7489399542429832,8.743733406066895,,1.1816532611846924
+43,934fbd3acf4433a952b49cfc004dd2b363b57faf,206,Why did Magwitch want to kill Compeyson?,fraudster,0.7297493663635136,7.946810722351074,,1.3217930793762207
+44,934fbd3acf4433a952b49cfc004dd2b363b57faf,207,Why did Estella decide to engage Bentley Drummle?,a disdainful rival of Pip's,0.7894010872096445,10.570552825927734,,1.0651898384094238
+45,934fbd3acf4433a952b49cfc004dd2b363b57faf,208,Why did Estella end up living at Satis house?,Herbert was rejected as a playmate for Estella,0.694858950029133,6.583477973937988,,0.9044301509857178
+46,934fbd3acf4433a952b49cfc004dd2b363b57faf,209,Where was Magwitch sent to in order to spare his death?,Jaggers,0.6609971871295103,5.3419294357299805,,1.9690625667572021
+47,934fbd3acf4433a952b49cfc004dd2b363b57faf,210,What does Pip steal for the convict?,a file,0.8361162467986105,13.036882400512695,,1.219010591506958
+48,934fbd3acf4433a952b49cfc004dd2b363b57faf,211,What does Miss Havisham usually wear?,her wedding dress and one shoe,0.7782469190813033,10.043834686279297,,0.9169974327087402
+49,934fbd3acf4433a952b49cfc004dd2b363b57faf,212,What trade is Pip learning?,blacksmith trade,0.8242455096210867,12.363042831420898,,1.1318104267120361
+50,934fbd3acf4433a952b49cfc004dd2b363b57faf,213,Who is Pip's benefactor?,Abel Magwitch,0.8646462390954595,14.835429191589355,,1.301238775253296
+51,934fbd3acf4433a952b49cfc004dd2b363b57faf,214,Who is Estella's father?,Matthew Pocket,0.6277218097774102,4.179645538330078,,0.9989356994628906
+52,934fbd3acf4433a952b49cfc004dd2b363b57faf,215,What does Pip do for a job in Cairo?,clerk,0.7788975139320213,10.07402515411377,,1.3380439281463623
+53,934fbd3acf4433a952b49cfc004dd2b363b57faf,216,Where does Miss Havisham live?,Her house is unchanged,0.6712900892736929,5.71220588684082,,0.9177794456481934
+54,934fbd3acf4433a952b49cfc004dd2b363b57faf,217,Who brought Estella to Miss Havisham?,"Molly, Jaggers's housekeeper, and the convict Abel Magwitch, given up for adoption to Miss Havisham after her mother was arrested for murder. In marrying Bentley Drummle",0.6705616171073365,5.685810089111328,,0.8767144680023193
+55,934fbd3acf4433a952b49cfc004dd2b363b57faf,218,Where did Abel go after his escape?,the home of Mrs Roylance,0.8303231862089592,12.70335578918457,,1.7641127109527588
+56,934fbd3acf4433a952b49cfc004dd2b363b57faf,219,What is Pip arrested for?,debt,0.7831070839157376,10.270925521850586,,1.3446247577667236
+57,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,55,Who is Mrs.Graham's son?,Arthur,0.8567497345002735,14.30842113494873,,1.2368221282958984
+58,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,56,Who wants to receive the affection of Mrs. Graham?,Mr Lawrence,0.750641396127911,8.816287994384766,,1.1531195640563965
+59,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,57,What does Gilbert accuse Mrs. Graham of?,marrying Helen's friend Esther Hargrave,0.5834652787107542,2.6961209774017334,,1.0015618801116943
+60,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,58,Where does Gilbert discover that Helen is rich?,Grassdale,0.7999752420750479,11.089117050170898,,1.0967559814453125
+61,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,59,Why does Helen return to Grassdale?,to take care of Arthur,0.893123843390589,16.98443603515625,,1.0585541725158691
+62,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,60,Who spreads rumors about Helen?,Eliza,0.7958792929856435,10.88588809967041,,1.0282018184661865
+63,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,61,When did Helen decide to hand her diaries to Gilbert?,when he accuses her of loving Lawrence,0.7497719019266974,8.779169082641602,,1.2865955829620361
+64,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,62,Why does Huntingdon become jealous of his son?,After the birth of their only child,0.8710141352098553,15.279643058776855,,1.1136469841003418
+65,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,63,Who was having an affair with Lady Lowborough?,Arthur Huntingdon,0.7720497921939207,9.759374618530273,,0.8845546245574951
+66,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,64,Where does Helen find asylum?,Wildfell Hall,0.8661089025830555,14.935871124267578,,1.0413837432861328
+67,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,65,Who is the narrator in Part One?,Gilbert Markham,0.8185968115353047,12.054956436157227,,1.1216051578521729
+68,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,66,Why was Mrs Helen Graham not free to marry?,her mother's maiden name,0.6531266576526179,5.062490940093994,,1.1050560474395752
+69,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,67,What estate did Helen eventually buy?,Wildfell Hall,0.4672645215319414,-1.049035906791687,,1.0567631721496582
+70,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,68,In what estate did Helen live with Huntingdon?,Grassdale Manor,0.8512295397592435,13.954217910766602,,1.1246311664581299
+71,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,69,Who does Gilbert believe is his chief rival?,Mr Lawrence,0.7879030681562311,10.498653411865234,,2.281658887863159
+72,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,70,Who is Mr Lawrence to Mrs Helen Graham?,her brother,0.7935564672972264,10.771982192993164,,1.0968799591064453
+73,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,71,Who does Arthur Huntingdon flirt with?,Annabella Wilmot,0.8537300144674804,14.113286972045898,,0.9281322956085205
+74,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,59,Why does Helen return to Grassdale?,to take care of Arthur,0.893123843390589,16.98443603515625,,1.056896686553955
+75,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,73,Who was Gilbert Markham's first romantic interest?,Eliza Millward,0.8139693153512475,11.808088302612305,,0.9382925033569336
+76,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,74,When did Helen give Gilbert her diaries?,1821,0.7183630609893089,7.490850448608398,,1.266326665878296
+77,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,75,Why is Huntingdon's death painful?,Unwilling to stop drinking alcohol,0.7417656338980233,8.441326141357422,,0.8611853122711182
+78,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,76,What does Arthur do when he finds out about Helen's plans to leave?,pines openly for his paramour and derides his wife,0.6727496668306624,5.765182971954346,,1.2135491371154785
+79,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,59,Why does Helen return to Grassdale?,to take care of Arthur,0.893123843390589,16.98443603515625,,1.054636001586914
+80,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,78,Who does Mr. Lawrence end up marrying?,Esther Hargrave,0.8481518095459663,13.76142692565918,,2.60438871383667
+81,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,79,How does Arthur corrupt his son?,encouraging him to drink and swear at his tender age,0.8141420742782248,11.817218780517578,,1.0567817687988281
+82,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,80,Why does Eliza spread rumors about Helen?,In retribution,0.7639217172001145,9.394414901733398,,1.099928617477417
+83,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,81,What does Huntingdon use to manipulate Helen and convince her to marry him?,flirts with Annabella,0.8103496916340382,11.618271827697754,,1.3727390766143799
+84,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,82,Who makes Huntingdon jealous?,their son,0.8269163083459735,12.511425971984863,,1.1082279682159424
+85,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,83,Who tells Helen about Arthur's affair with Lady Lowborough?,Walter Hargrave,0.8749604039064695,15.564385414123535,,1.1284894943237305
+86,4e959a5d22e1968a1950ac836a1ba0cc3edffa41,84,Where does Helen find refuge?,Wildfell Hall,0.876720069434367,15.693840980529785,,1.061119794845581
+87,65ba9ee675bf87cff5d76e2a27c0652adb69381b,114,"What does the word ""state"" refer to?",statesman Cicero,0.46758356995342576,-1.0387828350067139,,1.093437910079956
+88,65ba9ee675bf87cff5d76e2a27c0652adb69381b,115,"Is ""The Prince"" about Princedoms?","The prince has golden hair, a lovable laugh, and will repeat questions until they are answered",0.7451418322294762,8.582939147949219,,1.6483616828918457
+89,65ba9ee675bf87cff5d76e2a27c0652adb69381b,116,What is a unique trait about hereditary Princedoms?,they are much easier to rule,0.7932253255826855,10.755821228027344,,0.9039065837860107
+90,65ba9ee675bf87cff5d76e2a27c0652adb69381b,117,Why do non-hereditary Princes have unique challenges?,knowledge of how to rule human beings,0.5986539287710658,3.1988768577575684,,1.0026099681854248
+91,65ba9ee675bf87cff5d76e2a27c0652adb69381b,118,What influences inspired Machiavelli?,classical pre-Christian political philosophy,0.7960865685619809,10.896099090576172,,1.8248379230499268
+92,65ba9ee675bf87cff5d76e2a27c0652adb69381b,119,Who educated Cyrus the Great?,Xenophon,0.6810615345374409,6.069235801696777,,0.9113078117370605
+93,65ba9ee675bf87cff5d76e2a27c0652adb69381b,120,"According to Xenophon, how was Cyrus the Great unique?",very different,0.7816707290483484,10.203433990478516,,2.047633409500122
+94,65ba9ee675bf87cff5d76e2a27c0652adb69381b,121,Who is Machiavelli advising?,Francesco Guicciardini,0.7949246086586761,10.838956832885742,,1.7719480991363525
+95,65ba9ee675bf87cff5d76e2a27c0652adb69381b,122,What does the word state denote?,it suits his purposes,0.5800749063912924,2.5846471786499023,,0.9995229244232178
+96,65ba9ee675bf87cff5d76e2a27c0652adb69381b,123,At what time did the word state come to acquire a modern meaning?,the Renaissance,0.8358467413738424,13.021158218383789,,0.9242002964019775
+97,65ba9ee675bf87cff5d76e2a27c0652adb69381b,124,What else in included in this treatise that is supposed to be about princedoms?,discussion of republics,0.8018438828879701,11.182869911193848,,0.9144001007080078
+98,65ba9ee675bf87cff5d76e2a27c0652adb69381b,125,How are republics treated in this work?,as a type of princedom also,0.7812155467863025,10.182112693786621,,1.2791748046875
+99,65ba9ee675bf87cff5d76e2a27c0652adb69381b,126,What type of princedoms are earier to rule?,hereditary,0.8407428837974088,13.310127258300781,,0.8469681739807129
+100,65ba9ee675bf87cff5d76e2a27c0652adb69381b,127,When would a prince's subject not be well disposed toward him?,remarriage after divorce,0.6140169570761965,3.7138328552246094,,1.7938232421875
+101,65ba9ee675bf87cff5d76e2a27c0652adb69381b,128,What is an oligarchy?,Keep the state intact but install an oligarchy,0.4357091807615607,-2.068758010864258,,0.9044508934020996
+102,65ba9ee675bf87cff5d76e2a27c0652adb69381b,129,What is a democracy?,by the people,0.7084438976720728,7.102707386016846,,0.9795582294464111
+103,65ba9ee675bf87cff5d76e2a27c0652adb69381b,130,What is tyranny?,useless to have,0.47953846392795757,-0.6551350355148315,,0.876889705657959
+104,65ba9ee675bf87cff5d76e2a27c0652adb69381b,131,What are mixed cases?,"they are new parts of an older state, already belonging to that prince",0.8243990148910996,12.371522903442383,,0.7350800037384033
+105,65ba9ee675bf87cff5d76e2a27c0652adb69381b,132,What is a state?,Princely state,0.7330554200193364,8.081441879272461,,0.7357995510101318
+106,65ba9ee675bf87cff5d76e2a27c0652adb69381b,133,What type of government does the story talk about?,the king was administering justice,0.49941346052930585,-0.018769271671772003,,0.8439311981201172
+107,65ba9ee675bf87cff5d76e2a27c0652adb69381b,134,Which princedom is easiest to rule?,hereditary,0.832023036873461,12.80026626586914,,0.9343020915985107
+108,65ba9ee675bf87cff5d76e2a27c0652adb69381b,135,What would cause a population to hate a prince who inherited his princedom?,a prince who is hated is also exposed,0.5513925893960884,1.6503913402557373,,0.7777199745178223
+109,65ba9ee675bf87cff5d76e2a27c0652adb69381b,136,What groups does the story divide new states into?,three types of intelligence,0.41592014823585044,-2.716355323791504,,0.9220781326293945
+110,65ba9ee675bf87cff5d76e2a27c0652adb69381b,137,What other form of governement is mentioned throughout the story?,monarchy,0.7448680814154022,8.5714111328125,,0.7911314964294434
+111,65ba9ee675bf87cff5d76e2a27c0652adb69381b,138,Why is it harder to rule a new princedom?,they are larger in number,0.7099520171954884,7.161208152770996,,0.9314250946044922
+112,65ba9ee675bf87cff5d76e2a27c0652adb69381b,139,How do subjects treat an hereditary prince?,per civilization,0.6396353031268481,4.590252876281738,,0.9732794761657715
+113,65ba9ee675bf87cff5d76e2a27c0652adb69381b,140,Why are republics favored in the story?,one with many strengths,0.5683173235617904,2.199913263320923,,0.9020652770996094
+114,65ba9ee675bf87cff5d76e2a27c0652adb69381b,141,What type of prince will a population most easily accept?,miser,0.6006591026552632,3.2656970024108887,,0.785198450088501
+115,39c4fffc8734283d7bd491285d24b55a110c71ba,0,In which story do three plus culprits die?,Three Act Tragedy,0.3748841389214234,-4.090559959411621,,0.7689073085784912
+116,39c4fffc8734283d7bd491285d24b55a110c71ba,1,"How many people did the murderer kill in ""The A.B.C."" murders?",five,0.6879258682128159,6.323522567749023,,1.6268062591552734
+117,39c4fffc8734283d7bd491285d24b55a110c71ba,2,What is the name of the detective usually played in Christie's stories?,Miss Marple,0.8146192862418421,11.842473983764648,,2.308969497680664
+118,39c4fffc8734283d7bd491285d24b55a110c71ba,3,"What change was made to the murderer in ""Witness for Protection"" when it was turned into a stage play?",Alibi,0.7870291444243643,10.456879615783691,,0.9104564189910889
+119,39c4fffc8734283d7bd491285d24b55a110c71ba,4,"Where does ""Death Comes as an End"" take place?",Death on the Nile,0.5247249331855924,0.7918437123298645,,0.9937953948974609
+120,39c4fffc8734283d7bd491285d24b55a110c71ba,5,Who said Christie often makes an unlikely character the culprit?,P. D. James,0.8438300448207349,13.496049880981445,,2.1150999069213867
+121,39c4fffc8734283d7bd491285d24b55a110c71ba,6,Brian Aldiss said Christie writes her story all the way to the last chapter then decides what?,who the most unlikely suspect was,0.8451681311640498,13.577566146850586,,2.0761876106262207
+122,39c4fffc8734283d7bd491285d24b55a110c71ba,7,Which story doesn't contain any known suspects?,serialized version,0.41659283999312996,-2.6942079067230225,,0.7267453670501709
+123,39c4fffc8734283d7bd491285d24b55a110c71ba,8,What is the first step in the classic mystery structure Christie is known for?,solve the mystery,0.7931101567506099,10.750205039978027,,1.8473565578460693
+124,39c4fffc8734283d7bd491285d24b55a110c71ba,9,Christie has the reputation as being the queen of what?,Crime,0.7985745105580989,11.019269943237305,,1.290724515914917
+125,39c4fffc8734283d7bd491285d24b55a110c71ba,10,What is the name of Agatha Christie's most famous detective?,Sherlock Holmes,0.8563533917334593,14.282615661621094,,1.649972677230835
+126,39c4fffc8734283d7bd491285d24b55a110c71ba,11,What title has been given to Agatha Christie in response to the theming of her works?,Commander of the Order of the British Empire,0.8536403465884116,14.1075439453125,,1.5836288928985596
+127,39c4fffc8734283d7bd491285d24b55a110c71ba,12,Which of Agatha Christie's stories had all of the suspects end up being guilty?,There Were None and Endless Night,0.7343947921557443,8.136285781860352,,1.697774887084961
+128,39c4fffc8734283d7bd491285d24b55a110c71ba,13,What is one way some people say you can determine the guilty party in an Agatha Christie novel?,identifying the least likely suspect,0.7979963534420742,10.990546226501465,,1.5176217555999756
+129,39c4fffc8734283d7bd491285d24b55a110c71ba,14,Who wrote Agatha Christie: The Secret Notebooks?,Dilys Winn,0.4090780288323755,-2.9422245025634766,,1.0856585502624512
+130,39c4fffc8734283d7bd491285d24b55a110c71ba,15,Where is In Death Comes as the End set?,Death on the Nile,0.49302096079732227,-0.22334375977516174,,0.9615423679351807
+131,39c4fffc8734283d7bd491285d24b55a110c71ba,16,What is considered the basic mystery structure?,a time period,0.45928238404707017,-1.3058555126190186,,0.7249956130981445
+132,39c4fffc8734283d7bd491285d24b55a110c71ba,17,"In the A.B.C. Murders, what happens to the culprit?",the local doctor,0.7348782400227615,8.15612506866455,,1.7787840366363525
+133,39c4fffc8734283d7bd491285d24b55a110c71ba,18,"What other types of media have used Christie's storylines, but chosen to sanitize them?",TV films,0.6199735103455093,3.9154863357543945,,0.9784553050994873
+134,39c4fffc8734283d7bd491285d24b55a110c71ba,19,"In stories such as 'Endless Night' and 'Five Little Pigs', what did Christie leave open?",None,0.5834578111955898,2.6958751678466797,,0.7505662441253662
+135,39c4fffc8734283d7bd491285d24b55a110c71ba,20,"According to P.D. James, who did Christie often times make the guilty party in her stories?",the unlikeliest character,0.8871412320989287,16.494935989379883,,2.2666146755218506
+136,39c4fffc8734283d7bd491285d24b55a110c71ba,21,What title was Christie also known as?,Marple,0.697264238046173,6.674432754516602,,0.8148860931396484
+137,39c4fffc8734283d7bd491285d24b55a110c71ba,22,"In typical Christie mystery structure, during what part of the story did the detective uncover the most shocking twists?",first scene,0.7204810668697641,7.574792861938477,,1.979750156402588
+138,39c4fffc8734283d7bd491285d24b55a110c71ba,23,"In the stage version of 'Witness for the Prosecution', why did Christie change and extend the ending?","to be innocent of the crimes of which they were accused, survive, and fall in love with each other",0.634317381013558,4.406269073486328,,1.0313465595245361
+139,39c4fffc8734283d7bd491285d24b55a110c71ba,24,"In 'Murder on the Orient Express', who did Christie use as the guilty party?",Hercule Poirot,0.7796479685602177,10.108928680419922,,1.389150619506836
+140,39c4fffc8734283d7bd491285d24b55a110c71ba,25,What was the name of the detective in most of Christie's works?,Mr. Poirot,0.7571926253665572,9.098793983459473,,1.893329381942749
+141,39c4fffc8734283d7bd491285d24b55a110c71ba,26,How many culprits died during 'Curtain'?,1923,0.42254365471297683,-2.498720645904541,,0.9053473472595215
+142,39c4fffc8734283d7bd491285d24b55a110c71ba,27,What did John Curran do to Brian Aldiss' assertion about Christie's writing style?,Christie change how the solution was revealed,0.768501485032181,9.598952293395996,,1.9599940776824951
+143,39c4fffc8734283d7bd491285d24b55a110c71ba,28,Who did Christine use a culprit for 'And Then There Were None'?,Murder on the Orient Express,0.6061577969282231,3.4495201110839844,,0.7932941913604736
+144,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,249,Whose wedding was Emma Woodhouse attending in the beginning of the story?,Mr. Knightley,0.8161272411765031,11.92261028289795,,2.201683282852173
+145,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,250,What was Emma's plan with Harriet? ,take Harriet under her wing and help her find a good husband,0.8575908116024304,14.363380432128906,,1.5182771682739258
+146,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,251,Why did Jane Fairfax come home before becoming a governess?,her family's financial situation,0.799382909411286,11.05953598022461,,1.7618458271026611
+147,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,252,Why was Emma envious towards Jane?,Jane accepted a governess position from one of Mrs. Elton's friends,0.7529105148846311,8.913566589355469,,1.3179044723510742
+148,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,253,Where did Emma insult Miss.Bates?,on a day out in the country,0.7210614588156791,7.59786319732666,,1.7385215759277344
+149,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,254,What was Frank and Jane's revelation to the Westons?,they have been secretly engaged since autumn,0.8980966251081052,17.41002082824707,,1.8566110134124756
+150,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,255,How did the engagement between Frank and Jane end?,Jane ending the engagement,0.699966338019668,6.777100563049316,,1.8091719150543213
+151,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,256,To whom did Harriet get married to?,Mr. Knightley,0.705960936989801,7.006778240203857,,1.641252040863037
+152,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,257,What did Harriet tell Emma upon learning about Frank's engagement?,she loves Mr. Knightley,0.771992135354341,9.756753921508789,,1.5825414657592773
+153,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,258,Why does Emma take credit for Miss Taylor and Mr. Weston's marriage?,she likes matchmaking,0.8599605691265978,14.519700050354004,,2.2565648555755615
+154,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,259,Who advises Emma not to be a matchmatker?,Greville,0.7143960366640577,7.334650993347168,,2.195462465286255
+155,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,260,Where do Jane and her father live?,Hartfield,0.816803533705915,11.958715438842773,,1.647749662399292
+156,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,261,Who is Mr. Elton?,the local vicar,0.8864361298543378,16.438749313354492,,2.2069928646087646
+157,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,262,Where does Mr. Elton go after Emma refuses his proposal of marriage?,marrying another woman of lesser means,0.8662992554027534,14.949010848999023,,2.453835964202881
+158,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,263,Who does Emma marry?,George Knightley,0.8495079275801687,13.845974922180176,,1.2738041877746582
+159,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,264,What gift does Jane Fairfax receive from an anonymous benefactor? ,a piano,0.7086300727113252,7.109919548034668,,1.6128411293029785
+160,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,265,Who does Harriet Smith marry?,Mr. Knightley,0.7783207261430637,10.047256469726562,,1.5022480487823486
+161,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,266,What is Robert Martin's profession?,farmer,0.8520044875077838,14.003278732299805,,1.5416386127471924
+162,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,267,Who does Jane Fairfax marry?,Miss Bates,0.6823147581465453,6.1154398918151855,,2.0564520359039307
+163,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,268,When did Mr. Knightley and Emma Woodhhouse get married? ,Before the end of November,0.8272412499157789,12.52960205078125,,1.8010954856872559
+164,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,269,Who is Mrs Bates to Mss Jane Fairfax? ,her grandmother,0.7681512169591675,9.583209991455078,,2.048204183578491
+165,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,270,How did the Eltons treat Miss. Harriet Smith?  ,poorly,0.7104751660861169,7.181543350219727,,1.4729011058807373
+166,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,271,Who is Mr. Weston to the former Governess Mss. Taylor? ,married Mr. Weston,0.6896816545768583,6.38905143737793,,2.3329875469207764
+167,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,272,"Who was the respected, well spoken and well educated yound farmer? ",Robert Martin,0.737973566801484,8.283700942993164,,2.0107812881469727
+168,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,273,Who is Frank Churchill? ,Mr. Weston's son by his first marriage,0.8726482908185994,15.396639823913574,,2.1219887733459473
+169,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,274,Where was Emma Woodhouse's home? ,Hartfield in the English countryside near the village of Highbury,0.7890967764421034,10.555916786193848,,0.9955010414123535
+170,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,275,What newly found interest does Emma Woodhouse suddenly engage in after attending Mss Tayor and Mr Weston's wedding? ,matchmaking,0.83562594234682,13.008291244506836,,1.9982242584228516
+171,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,276,How long did Frank Churchill's visit last at his father's house? ,two-week,0.7850779603737703,10.36406135559082,,2.1933274269104004
+172,a0dad21d83efe7d9865b299a3f8b343ff50ff7a5,277,Who scolded Emma Woodhouse? ,Mr. Knightley,0.6974519752015477,6.681549072265625,,0.9935576915740967
+173,6a659de3aa344680261aaf152a26bf7a20fe22f2,142,What is the title of the story?,Alice's Adventures in Wonderland,0.8155318129481469,11.890907287597656,,1.5981974601745605
+174,6a659de3aa344680261aaf152a26bf7a20fe22f2,143,What is Horace Holly's job title?,servant,0.7722389510755958,9.767975807189941,,1.3176727294921875
+175,6a659de3aa344680261aaf152a26bf7a20fe22f2,144,"What does Vincey give to Holly, to give to his son Leo on his 25th birthday?",a locked iron box,0.8841358140051422,16.257535934448242,,1.5630688667297363
+176,6a659de3aa344680261aaf152a26bf7a20fe22f2,145,"What did Holly and Leo discover in the box, upon opening it?","Sherd of Amenartas"",",0.8162377692724028,11.92850399017334,,1.2651708126068115
+177,6a659de3aa344680261aaf152a26bf7a20fe22f2,146,"Where did Holly, Leo and Job travel to and become shipwrecked at?",eastern Africa,0.8523512272328455,14.025299072265625,,1.4074981212615967
+178,6a659de3aa344680261aaf152a26bf7a20fe22f2,147,Who is chief elder of one of the Amahagger tribes?,Billali,0.8721549782446625,15.361186981201172,,1.5723447799682617
+179,6a659de3aa344680261aaf152a26bf7a20fe22f2,148,Who may have some degree of power to reanimate the dead?,Ayesha,0.8673330554433999,15.020649909973145,,1.4881255626678467
+180,6a659de3aa344680261aaf152a26bf7a20fe22f2,149,Who has supernatural powers?,Tyrannus,0.6750948104251958,5.850557804107666,,1.0554611682891846
+181,6a659de3aa344680261aaf152a26bf7a20fe22f2,150,Who is Ayesha confident of becomming the reincarnation of her former lover?,Leo,0.765502463174735,9.464698791503906,,1.6513352394104004
+182,6a659de3aa344680261aaf152a26bf7a20fe22f2,151,What does Ayesha tell Leo before she dies?,"Forget me not. I shall come again!""",0.7980572238918747,10.99356746673584,,1.519986629486084
+183,6a659de3aa344680261aaf152a26bf7a20fe22f2,152,What are the instructions that Vincey gives Holly with the iron box?,it is not to be opened until Leo turns 25,0.806258776705261,11.407051086425781,,1.305295467376709
+184,6a659de3aa344680261aaf152a26bf7a20fe22f2,153,Who does Vincey put in charge of raising his son Leo?,Horace Holly,0.8187447188176797,12.06292724609375,,1.3945927619934082
+185,6a659de3aa344680261aaf152a26bf7a20fe22f2,154,Why did Holly shoot several of the Amahagger?,Realising what is about to happen,0.5487681408387167,1.5655577182769775,,1.4424242973327637
+186,6a659de3aa344680261aaf152a26bf7a20fe22f2,155,Where is the home of the Queen?,Khetlhakone Village,0.8008865075519657,11.134754180908203,,1.4658160209655762
+187,6a659de3aa344680261aaf152a26bf7a20fe22f2,156,What does Ayesha say Leo has to do to become immortal?,bathe in the fire,0.8570568907939635,14.328460693359375,,1.5156817436218262
+188,6a659de3aa344680261aaf152a26bf7a20fe22f2,157,What is the last thing Ayesha says to Leo before she dies?,Forget me not,0.8607914572105904,14.575033187866211,,1.5612614154815674
+189,6a659de3aa344680261aaf152a26bf7a20fe22f2,158,Who is the queen?,Princess Masalanabo,0.8044023147093904,11.31231689453125,,0.8309931755065918
+190,6a659de3aa344680261aaf152a26bf7a20fe22f2,159,Why does Ayesha step into the Spirit of Life?,the life-preserving power is lost and Ayesha begins to revert to her true age,0.8029884060250434,11.240621566772461,,1.4512205123901367
+191,6a659de3aa344680261aaf152a26bf7a20fe22f2,160,How long has Ayesha lived?,over two thousand years,0.8533918471680526,14.091643333435059,,1.2847568988800049
+192,6a659de3aa344680261aaf152a26bf7a20fe22f2,161,How does Ustane die?,throwing herself onto his prostrate body,0.7387892931693308,8.317482948303223,,1.4465107917785645
+193,6a659de3aa344680261aaf152a26bf7a20fe22f2,162,What happened to Leo's father?,His father forbade it until Haggard had made a career for himself,0.6533060577552754,5.068826675415039,,1.351034164428711
+194,6a659de3aa344680261aaf152a26bf7a20fe22f2,163,What is Holly's profession?,Cambridge man,0.8429860063464054,13.444923400878906,,1.1839540004730225
+195,6a659de3aa344680261aaf152a26bf7a20fe22f2,164,What does Leo's father leave Holly and Leo?,a locked iron box,0.4940894014613986,-0.1891479641199112,,1.4491117000579834
+196,6a659de3aa344680261aaf152a26bf7a20fe22f2,165,Where does the box take them when they finally open it?,a local water park,0.4990181898278619,-0.03141796588897705,,1.204848289489746
+197,6a659de3aa344680261aaf152a26bf7a20fe22f2,166,Who saves Leo after he is injured?,Ustane,0.8596621972850097,14.499897003173828,,1.596736192703247
+198,6a659de3aa344680261aaf152a26bf7a20fe22f2,167,What did the people intend to do with Mohomed?,sequel,0.7396689174217362,8.353987693786621,,1.1226232051849365
+199,6a659de3aa344680261aaf152a26bf7a20fe22f2,168,Where does Ayesha and her people live?,under a dormant volcano,0.7940603001543095,10.796607971191406,,1.3561921119689941
+200,6a659de3aa344680261aaf152a26bf7a20fe22f2,169,What did Ayesha think would happen to Leo if he bathed in the Pillar of Fire?,to become immortal and remain with her forever,0.8310313601357547,12.743635177612305,,1.5106167793273926
+201,6a659de3aa344680261aaf152a26bf7a20fe22f2,170,How did Ayesha kill Ustane?,magic,0.6974346433486144,6.680891990661621,,1.5273995399475098
+202,6a659de3aa344680261aaf152a26bf7a20fe22f2,171,What happens to Ayesha when she steps into the fire?,make herself and him both immortal,0.7478991283129279,8.69951057434082,,1.4898147583007812
+203,6a659de3aa344680261aaf152a26bf7a20fe22f2,172,Who is Leo's biological father?,Kallikrates,0.6127857023241544,3.6722960472106934,,1.4294216632843018
+204,6a659de3aa344680261aaf152a26bf7a20fe22f2,173,Why does Ayesha kill Ustane?,magic,0.6030503091522019,3.3455286026000977,,1.4126884937286377
+205,6a659de3aa344680261aaf152a26bf7a20fe22f2,174,Who does Ayesha believe Leo to be? ,the reincarnation of her former lover,0.8136818615855769,11.7929105758667,,1.523127555847168
+206,6a659de3aa344680261aaf152a26bf7a20fe22f2,175,Who did Vincey want to raise his son once he died?,Harry,0.6855250338428521,6.234244346618652,,1.455974817276001
+207,6a659de3aa344680261aaf152a26bf7a20fe22f2,176,What did Horace Holly do for a living? ,shoots several of the Amahagger,0.5429101575377331,1.3765110969543457,,1.4225668907165527
+208,6a659de3aa344680261aaf152a26bf7a20fe22f2,177,"Where did Holly, Leo and Job travel to? ",eastern Africa,0.851752473705403,13.987300872802734,,1.3261923789978027
+209,6a659de3aa344680261aaf152a26bf7a20fe22f2,178,How does Mahomed die?,Holly shoots him accidentally in the scuffle with the Amahagger,0.8232319677293345,12.307197570800781,,1.3537425994873047
+210,6a659de3aa344680261aaf152a26bf7a20fe22f2,179,What happens to Job after seeing Ayesha wither away in the fire?,dies in fright,0.8084783252123733,11.521223068237305,,1.489293098449707
+211,6a659de3aa344680261aaf152a26bf7a20fe22f2,180,Who is the chief elder of the Amahagger tribes?,Billali,0.8644947387596166,14.825078010559082,,1.4429738521575928
+212,6a659de3aa344680261aaf152a26bf7a20fe22f2,181,How old is Leo when the box is opened?,25,0.5515485840932632,1.655436635017395,,1.4907243251800537
+213,6a659de3aa344680261aaf152a26bf7a20fe22f2,182,Who is the young professor?,Horace Holly,0.8443924034730405,13.53023910522461,,1.6334266662597656
+214,6a659de3aa344680261aaf152a26bf7a20fe22f2,183,Who is ruled by the white queen?,the natives,0.7595249130388543,9.200613021850586,,1.2249066829681396
+215,6a659de3aa344680261aaf152a26bf7a20fe22f2,184,What  did Ayesha take the two men to go and see? ,the Pillar of Fire,0.8465288998617653,13.661056518554688,,1.3188397884368896
+216,6a659de3aa344680261aaf152a26bf7a20fe22f2,185,What is ayesha a white sorcess to ?,"She-who-must-be-obeyed"".",0.6933626381266471,6.527098655700684,,1.388643503189087
+217,6a659de3aa344680261aaf152a26bf7a20fe22f2,186,Who is leo the son to ?,Ignosi,0.7678427422684091,9.56935977935791,,1.4378128051757812
+218,6a659de3aa344680261aaf152a26bf7a20fe22f2,187,Who is ustane?,an Amahagger maiden,0.8757717922605871,15.623882293701172,,1.3903663158416748
+219,6a659de3aa344680261aaf152a26bf7a20fe22f2,188,How old was leo when leo opened the box?,25,0.45328690706326097,-1.4991910457611084,,1.4547045230865479
+220,6a659de3aa344680261aaf152a26bf7a20fe22f2,189,What type of box is to be opened?,locked iron box,0.5637114642725188,2.049909830093384,,1.4098947048187256
+221,6a659de3aa344680261aaf152a26bf7a20fe22f2,190,Who decided leo should die in the fire?,Ayesha,0.6423717651888663,4.685385704040527,,1.3776071071624756
+222,6a659de3aa344680261aaf152a26bf7a20fe22f2,191,Who is vincey?,a colleague,0.6849307449698141,6.212202072143555,,1.3200225830078125
+223,ba8ee38aaf59d57090798dcbe0db6ef416af6533,278,What was Marjory's surname when she buried Don Bernardino?,Gormala MacNeil,0.3959543557014605,-3.3788065910339355,,1.8222639560699463
+224,ba8ee38aaf59d57090798dcbe0db6ef416af6533,279,What two wars play a role in this story?,Spanish–American War,0.676046641532863,5.885300159454346,,1.0245158672332764
+225,ba8ee38aaf59d57090798dcbe0db6ef416af6533,280,Who is Marjory's landlord?,Don Bernardino,0.815716352078082,11.900724411010742,,1.7221271991729736
+226,ba8ee38aaf59d57090798dcbe0db6ef416af6533,281,Why is Marjory kidnapped?,a Spanish plot against Marjory's life,0.6843880721340007,6.192093849182129,,1.7137794494628906
+227,ba8ee38aaf59d57090798dcbe0db6ef416af6533,282,Who first entered the cave?,archaeologists,0.5035262147209469,0.11284074187278748,,0.6668548583984375
+228,ba8ee38aaf59d57090798dcbe0db6ef416af6533,283,What was the full name of the person who assisted in Marjory's kidnapping?,Don Bernardino,0.7713881363772868,9.729328155517578,,1.6466727256774902
+229,ba8ee38aaf59d57090798dcbe0db6ef416af6533,284,Where was Don Bernardino originally from?,Spanish Armada officer,0.6679996783712993,5.59321403503418,,1.6698768138885498
+230,ba8ee38aaf59d57090798dcbe0db6ef416af6533,285,Where are the Skares?,a chain of sharp rocks,0.6628626711965792,5.4086198806762695,,1.2728440761566162
+231,ba8ee38aaf59d57090798dcbe0db6ef416af6533,286,What was the name of the cipher?,Virginia Dare,0.41658780594087985,-2.694373607635498,,1.3774425983428955
+232,ba8ee38aaf59d57090798dcbe0db6ef416af6533,287,What does Gormala tell Archibald about himself?,"she has ""Second Sight",0.6567378615127508,5.190324306488037,,1.5697822570800781
+233,ba8ee38aaf59d57090798dcbe0db6ef416af6533,288,How does Marjory help Archibald?,Archibald must reduce the cipher in order to crack it,0.8016137794415003,11.171289443969727,,1.6907525062561035
+234,ba8ee38aaf59d57090798dcbe0db6ef416af6533,289,What is significant about the location of the house Archibald is building?,he is an embodiment of popular perceptions of race,0.44746579237237105,-1.6873220205307007,,1.6711790561676025
+235,ba8ee38aaf59d57090798dcbe0db6ef416af6533,290,Why did Marjory flee to Scotland?,to keep them from interfering with her liberty,0.8866712223262807,16.457448959350586,,1.5308175086975098
+236,ba8ee38aaf59d57090798dcbe0db6ef416af6533,291,How is the landlord of Castle Crom connected to Archibald?,—the descendant of the man who wrote the documents,0.8264642305248785,12.486183166503906,,1.633589744567871
+237,ba8ee38aaf59d57090798dcbe0db6ef416af6533,292,How does Archibald eventually find Marjory after she is kidnapped?,sets traps for her pursuers and leaves a trail of ciphers,0.7403655641026684,8.382955551147461,,1.690126895904541
+238,ba8ee38aaf59d57090798dcbe0db6ef416af6533,293,What happens to Don Bernandino on the ship of the kidnappers?,thrown into the water,0.6775720131689376,5.9410881996154785,,1.7658677101135254
+239,ba8ee38aaf59d57090798dcbe0db6ef416af6533,294,How is Castle Crom connected to the hidden treasure?,The buried treasure that figures so prominently in Stoker's novel was supposedly granted to one of the sailors of the Armada by Pope Sixtus V after the Armada's defeat to use in further actions against England,0.6860548249385876,6.253913402557373,,1.4631216526031494
+240,ba8ee38aaf59d57090798dcbe0db6ef416af6533,295,Who leads the kidnappers to Marjory?,Archibald,0.7081020767655415,7.089472770690918,,1.4288575649261475
+241,ba8ee38aaf59d57090798dcbe0db6ef416af6533,296,What do Marjory and Archibald do for Don Bernandino's body after his death?,ensure that his body is taken back to Spain and buried with his ancestors,0.7622258305798177,9.319372177124023,,1.7239298820495605
+242,ba8ee38aaf59d57090798dcbe0db6ef416af6533,297,What vision does Archibald have at the beginning of the story?,a couple walking past him,0.853887321957062,14.123369216918945,,1.6671524047851562
+243,ba8ee38aaf59d57090798dcbe0db6ef416af6533,298,What power does Archibald find out that he has?,gift of Second Sight,0.8351652985615189,12.981492042541504,,1.6692545413970947
+244,ba8ee38aaf59d57090798dcbe0db6ef416af6533,299,Who has the same power as Archibald?,Seer,0.5382585756073766,1.2266721725463867,,1.7871754169464111
+245,ba8ee38aaf59d57090798dcbe0db6ef416af6533,300,How does Archibald meet Marjory?,Archibald must reduce the cipher in order to crack it,0.6505495454161118,4.971645355224609,,1.6952903270721436
+246,ba8ee38aaf59d57090798dcbe0db6ef416af6533,301,What does Archibald purchase while working in his new house?,a trunk,0.5332539579269934,1.065699815750122,,1.4804258346557617
+247,ba8ee38aaf59d57090798dcbe0db6ef416af6533,302,How does Marjory held Archibald with the letters that he discovered?,helps Archibald decode,0.6626678224056443,5.401645660400391,,1.694112777709961
+248,ba8ee38aaf59d57090798dcbe0db6ef416af6533,303,What do the letters reveal?,The letters at one point refer to a Sherden man as an apparent renegade mercenary,0.7668130873278513,9.523221969604492,,0.892179012298584
+249,ba8ee38aaf59d57090798dcbe0db6ef416af6533,304,Where do Archibald and Marjory discover the treasure?,in the cave under Archibald's house,0.8321581789826256,12.808004379272461,,1.6928179264068604
+250,ba8ee38aaf59d57090798dcbe0db6ef416af6533,305,Why does Don Bernardino agree to help Archibald find Marjory?,to regain the honor he lost in failing to find the treasure,0.7540318333808504,8.961859703063965,,1.733116865158081
+251,ba8ee38aaf59d57090798dcbe0db6ef416af6533,306,How does Archibald learn where Marjory is being held by her kidnappers?,Through Gormala's power of Second Sight,0.6932862931051247,6.524226188659668,,1.7101173400878906
+252,9bd99dd1525e23d34c132f256ad8204cdf6fe089,220,Who is pressuring Adeliene into an affair?,Miriam,0.572262023801623,2.3286893367767334,,0.9920327663421631
+253,9bd99dd1525e23d34c132f256ad8204cdf6fe089,221,Why does Crevel dislike Baron Hulot?,his actions are no less devastating to the people around him,0.8276995290551306,12.555282592773438,,1.6057417392730713
+254,9bd99dd1525e23d34c132f256ad8204cdf6fe089,222,What other name is Bette known by?,Hawkfire,0.8288752068855949,12.62141227722168,,0.7845356464385986
+255,9bd99dd1525e23d34c132f256ad8204cdf6fe089,223,How does Bette meet Steinbock?,He offers Bette a source of pride,0.6698156359598478,5.658810615539551,,1.2512006759643555
+256,9bd99dd1525e23d34c132f256ad8204cdf6fe089,224,What causes Baron Hulot to go into debt?,"money he borrowed to lavish on Josépha,",0.7442716295810053,8.546321868896484,,1.3818395137786865
+257,9bd99dd1525e23d34c132f256ad8204cdf6fe089,225,Why does Valerie swear vengeance on the Hulots?,to work on Baron Hulot's demonstrated weakness for acquiring and lavishing more money than he has on young mistresses,0.7498559861573442,8.782754898071289,,2.194884777069092
+258,9bd99dd1525e23d34c132f256ad8204cdf6fe089,226,What deal does the Marshal make with Bette?,Margaret Tyzack played the role of Bette in the five part serial Cousin Bette,0.6516011743115715,5.008678436279297,,1.213181495666504
+259,9bd99dd1525e23d34c132f256ad8204cdf6fe089,227,How do Crevel and Valerie die?,attempting suicide,0.62898581072581,4.222947120666504,,1.2938721179962158
+260,9bd99dd1525e23d34c132f256ad8204cdf6fe089,228,Who does Baron Hulot marry after Adeline dies?,Wenceslas Steinbock,0.8432432942430783,13.460484504699707,,1.4912703037261963
+261,9bd99dd1525e23d34c132f256ad8204cdf6fe089,229,"How many novels are in this set, and which one is this from?",Le Cousin Pons,0.764293444643455,9.410913467407227,,1.4295380115509033
+262,9bd99dd1525e23d34c132f256ad8204cdf6fe089,230,What is the name of Adeline Hulot's husband?,Wenceslas Steinbock,0.7671961281099221,9.540369033813477,,1.4894719123840332
+263,9bd99dd1525e23d34c132f256ad8204cdf6fe089,231,What is the name of Adeline's cousin?,Bette,0.8011281852447916,11.146883964538574,,1.3347015380859375
+264,9bd99dd1525e23d34c132f256ad8204cdf6fe089,232,How old is Bette and is she married?,She married actor Karl Geary in 2003,0.6109883043597072,3.6117472648620605,,0.9353542327880859
+265,9bd99dd1525e23d34c132f256ad8204cdf6fe089,233,Who convinces Johann Fischer to embezzle money and why?,the Baron,0.6653882243953728,5.499197483062744,,1.4690134525299072
+266,9bd99dd1525e23d34c132f256ad8204cdf6fe089,234,What shatters Bette's happiness at the end of the introduction?,Hortense Hulot marries Wenceslas Steinbock,0.8290749760178585,12.632684707641602,,2.350700855255127
+267,9bd99dd1525e23d34c132f256ad8204cdf6fe089,235,Who promises to marry Bette?,Kate,0.707362678833414,7.06087589263916,,1.2587616443634033
+268,9bd99dd1525e23d34c132f256ad8204cdf6fe089,236,Who is Valerie?,The four leading female characters,0.7036777680010794,6.918984413146973,,0.9305074214935303
+269,9bd99dd1525e23d34c132f256ad8204cdf6fe089,237,Which lover does Valerie tell she is pregnant?,Bob Fosse,0.4733413813821323,-0.8538855314254761,,1.2743499279022217
+270,9bd99dd1525e23d34c132f256ad8204cdf6fe089,238,Who does Baron Hulot poison?,Josépha Mirah,0.5031096105935418,0.09950882196426392,,1.4234468936920166
+271,9bd99dd1525e23d34c132f256ad8204cdf6fe089,239,Who is Victorin married to?,Sally Baxter,0.8264285288203165,12.48419189453125,,0.9533674716949463
+272,9bd99dd1525e23d34c132f256ad8204cdf6fe089,240,Where is Wenceslas Steinbock from?,her mother's home,0.5154395009017889,0.49422115087509155,,1.4019131660461426
+273,9bd99dd1525e23d34c132f256ad8204cdf6fe089,241,Who does Baron Hulot set up a house for?,Valérie Marneffe,0.8285539717236994,12.603307723999023,,1.557734727859497
+274,9bd99dd1525e23d34c132f256ad8204cdf6fe089,242,Where does Johann Fischer embezzle funds from?,a War Department outpost in Algiers,0.8479020627224287,13.74592399597168,,1.186103105545044
+275,9bd99dd1525e23d34c132f256ad8204cdf6fe089,243,What is Baron Hulot's brother known as?,a famous war hero,0.7899000713649518,10.594585418701172,,1.4324750900268555
+276,9bd99dd1525e23d34c132f256ad8204cdf6fe089,244,How does Valerie's pregnancy end?,eliminated Valérie.,0.6052490229694256,3.419078826904297,,0.93949294090271
+277,9bd99dd1525e23d34c132f256ad8204cdf6fe089,245,Who poisons Valerie and Crevel?,Screenwriters Lynn Siefert and Susan Tarr,0.6228539200027766,4.013435363769531,,1.3236253261566162
+278,9bd99dd1525e23d34c132f256ad8204cdf6fe089,246,Who does Hulot marry after his wife dies?,Wenceslas Steinbock,0.8641077474193404,14.798681259155273,,1.3551156520843506
+279,9bd99dd1525e23d34c132f256ad8204cdf6fe089,247,What is Agathe's job?,make-up artist and hairstylist,0.6919224453362016,6.472978591918945,,0.7423145771026611
+280,9bd99dd1525e23d34c132f256ad8204cdf6fe089,248,Who marriese Hortense Hulot?,Wenceslas Steinbock,0.7638420332155831,9.390880584716797,,1.4636609554290771
+281,44c8278a7dc6f876636f0979bb645cf98ae1df0f,29,What is built before one of the clan's offspring visits?,a lush landscaped garden,0.7320119015989222,8.038833618164062,,0.9374103546142578
+282,44c8278a7dc6f876636f0979bb645cf98ae1df0f,30,What clan does both the Rongguo and Nongguo Houses belong to?,Jia,0.8722405537294885,15.367328643798828,,1.5853447914123535
+283,44c8278a7dc6f876636f0979bb645cf98ae1df0f,31,Who is most likely to blame for the Jia clan's mansions being raided and confiscated?,the Emperor,0.7982882262034179,11.00503921508789,,1.6003150939941406
+284,44c8278a7dc6f876636f0979bb645cf98ae1df0f,32,Which goddess mended the heavens?,Nüwa,0.7696881749442174,9.652410507202148,,1.5643975734710693
+285,44c8278a7dc6f876636f0979bb645cf98ae1df0f,33,What are the monk and priest begged to bring with them on their quest to see the world?,a sentient Stone,0.8020124812664499,11.191361427307129,,0.7961132526397705
+286,44c8278a7dc6f876636f0979bb645cf98ae1df0f,34,What enters the mortal realm?,a sentient Stone,0.6910975029242781,6.442041873931885,,1.2076356410980225
+287,44c8278a7dc6f876636f0979bb645cf98ae1df0f,35,What was Jia Baoyu born with in his mouth?,a piece of jade,0.8063032959980408,11.409331321716309,,1.073115348815918
+288,44c8278a7dc6f876636f0979bb645cf98ae1df0f,36,With whom does Jia Baoyu have a special bond with?,many of the women,0.8119695308333013,11.70287036895752,,2.2173011302948
+289,44c8278a7dc6f876636f0979bb645cf98ae1df0f,37,Who is supposed to marry Xue Baochai?,Xia Jingui,0.7638380979880913,9.390706062316895,,0.7792527675628662
+290,44c8278a7dc6f876636f0979bb645cf98ae1df0f,38,What two families are emphasized in the story?,the Xue family,0.7319710454302942,8.0371675491333,,1.1175038814544678
+291,44c8278a7dc6f876636f0979bb645cf98ae1df0f,39,What clan do the Rongguo House and Ningguo house belong to?,Jia,0.8830700617060492,16.174636840820312,,1.9326765537261963
+292,44c8278a7dc6f876636f0979bb645cf98ae1df0f,40,What was built to receive the visit from the Royal Consort?,a lush landscaped garden,0.8849100043704696,16.318172454833984,,1.3148188591003418
+293,44c8278a7dc6f876636f0979bb645cf98ae1df0f,41,What goddess abandoned the sentient Stone?,Nüwa,0.7876523103533685,10.486654281616211,,0.843738317489624
+294,44c8278a7dc6f876636f0979bb645cf98ae1df0f,42,What clan fell into disfavor with the Emperor?,Jia,0.7839159810065857,10.309076309204102,,1.0238802433013916
+295,44c8278a7dc6f876636f0979bb645cf98ae1df0f,43,With whom did the sentient Stone travel?,a Taoist priest and a Buddhist monk,0.8229578845576726,12.292139053344727,,0.7945859432220459
+296,44c8278a7dc6f876636f0979bb645cf98ae1df0f,44,Who is the main character of this story?,Jia Baoyu,0.8723790981811997,15.377279281616211,,0.8652794361114502
+297,44c8278a7dc6f876636f0979bb645cf98ae1df0f,45,Whom is Jia Baoyu predestined to marry?,Xue Baochai,0.776420680781471,9.959425926208496,,2.2074356079101562
+298,44c8278a7dc6f876636f0979bb645cf98ae1df0f,46,What interests do Jia and Lin share?,reading or writing poetry and playing with his numerous female relations,0.662021012723128,5.378508567810059,,1.0643396377563477
+299,44c8278a7dc6f876636f0979bb645cf98ae1df0f,47,Who abandoned the Stone?,goddess Nüwa,0.8273256157772079,12.53432559967041,,0.773252010345459
+300,44c8278a7dc6f876636f0979bb645cf98ae1df0f,48,What was Jia Baoyu born with?,a piece of luminescent jade in his mouth,0.8602748461207848,14.540596961975098,,1.746762990951538
+301,44c8278a7dc6f876636f0979bb645cf98ae1df0f,49,Which family member does Jia Baoyu share a special bond with?,Xue Baochai,0.8550347373901201,14.197183609008789,,2.373206377029419
+302,44c8278a7dc6f876636f0979bb645cf98ae1df0f,50,Who is Jia Baoyu supposed to marry?,Daiyu,0.7903305971537719,10.615354537963867,,1.5287199020385742
+303,44c8278a7dc6f876636f0979bb645cf98ae1df0f,51,What characteristics make Xue the ideal woman?,socially graceful,0.7196266409260855,7.5408830642700195,,0.813560962677002
+304,44c8278a7dc6f876636f0979bb645cf98ae1df0f,52,Around how many minor characters are there?,four hundred,0.785789469232197,10.397836685180664,,0.8729801177978516
+305,44c8278a7dc6f876636f0979bb645cf98ae1df0f,53,What happens when the Jias fall from the Emperor's favor?,their mansions are raided and confiscated,0.8237005199648243,12.332983016967773,,1.206481695175171
+306,44c8278a7dc6f876636f0979bb645cf98ae1df0f,54,What was the person who abandoned the stone doing when they abandoned it?,begs a Taoist priest and a Buddhist monk,0.6900043816604501,6.401118278503418,,1.2356388568878174
